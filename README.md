@@ -2,6 +2,7 @@
 ## Video Editor - 18 month fixed term contract  
 
 ## To do:  
+* go through job application process, see what they're actually looking for - case studies, a general statement, etc.  
 * add visual sliders to CV showing skill level with various editing software, etc  
 * a bit more visual pizzazz in the bulleted section on soft skills (working in teams, etc.)  
 * archive from Stuart  
@@ -9,7 +10,9 @@
 
 ---
 
-> The Film and Photography Team is an award-winning, multi-faceted, full-service in house resource creating engaging content for the firm’s audiences, internal and external, around the globe. The team has a broad range of expertise and experience and draw upon these to produce impactful films, animations, stills content and campaigns for the benefit of Baillie Gifford and its clients. The team collaborate with a range of other in-house teams and stakeholders as well as external suppliers and freelancers to deliver engaging and impactful media.  
+## About the department  
+
+The Film and Photography Team is an award-winning, multi-faceted, full-service in house resource creating engaging content for the firm’s audiences, internal and external, around the globe. The team has a broad range of expertise and experience and draw upon these to produce impactful films, animations, stills content and campaigns for the benefit of Baillie Gifford and its clients. The team collaborate with a range of other in-house teams and stakeholders as well as external suppliers and freelancers to deliver engaging and impactful media.  
 
 ## Purpose of Role  
 
