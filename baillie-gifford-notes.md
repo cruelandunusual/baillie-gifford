@@ -7,26 +7,50 @@ Strong examples of:
 * Music (prisons film, national records of Scotland)  
 * Interview editing (community service, a Napier film)
 
-Also stories of me filming, recording sound, location scouting, to show how adaptable I am. Scripting some basic bash for the backups.  
+Also _stories_ of me filming, recording sound, location scouting, to show how adaptable I am. Scripting some basic bash for the backups.  
 All the stuff in the national records application about doing meetings in German and how it shows respect for colleagues. Mentoring and being mentored.
 
 Overall structure should follow the three qualities listed at the end of the job description.  
 ## Good work samples
-* SE business films - interviews with business leaders  
-* Advertising stuff - Innis & Gunn, the aberdeen underwater vehicle thing  
-* Inclusive comms  
-* Education Scotland case studies `(finishing each other's sentences, good grade and visual treatment, intercutting the Luna kids audio segments to punctuate what the teachers are saying)`  
-* Kent County Council `(drama)`  
-* Prison Sentencing `(finishing each other's sentences [esp between Katrina Morrison and Jim Kerr at _05:26_]; cutting the pauses and gaps out of the judge's speech; bespoke music beginning at _02:23_`  
-* LBG Mental Health Strategy  
-* Visit Scotland castles `(fast-paced, cutting to an exact duration)`  
-* Stagecoach Squad on board `(lots of music edits)`  
-* SE Mipim conference `(integrating graphics)`  
-* SE Annual Review `(massive change of brief, edited in one night)`  
-* SE Making Scotland's Future `(integrating external graphics, cutting to music [both cutting to different shots and aligning shot action to music])`  
-* Napier Cogmhear hearing aid `(finishing each other's sentences)`  
-* LBG Risk `(good use of sfx to add atmosphere)`  
-* NES Bereavement A&E `(creative music editing, using music as sfx, and lots of carefully sourced stock footage)`
+* High end advertising stuff
+    * Innis & Gunn
+    * the aberdeen underwater vehicle thing  
+* Inclusive comms:  
+    * drama
+* Education Scotland case studies:  
+    * finishing each other's sentences
+    * good grade and visual treatment
+    * intercutting the Luna kids audio segments to punctuate what the teachers are saying  
+* Kent County Council:  
+    * drama  
+* Prison Sentencing:
+    * finishing each other's sentences, esp between Katrina Morrison and Jim Kerr at **_05:26_**  
+    * cutting the pauses and gaps out of the judge's speech; bespoke music beginning at **_02:23_**  
+* LBG Mental Health Strategy:
+    * interesting style
+* Visit Scotland castles:
+    * fast-paced
+    * cutting to an exact duration
+    * working closely with client to create and then appropriately integrate foreign language graphics
+* Stagecoach Squad on board:
+    * good creative use of music  
+* SE Mipim conference:
+    * integrating graphics  
+* SE Annual Review:
+    * massive change of brief, re-edited in one (late) night using mixture of footage shot for original brief and existing client stock  
+* SE Making Scotland's Future:
+    * integrating external graphics and visual elements done in the editing software
+    * cutting to music [both cutting to different shots and aligning shot action to music]  
+* Napier Cogmhear hearing aid:
+    * simple but effective brand graphics
+    * finishing each other's sentences  
+* LBG Risk:
+    * good use of sfx to add atmosphere  
+* NES Bereavement A&E:
+    * creative music editing  
+    * using music as sfx  
+    * and lots of carefully sourced stock footage  
+
 
 
 ---
