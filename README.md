@@ -18,21 +18,21 @@ The Film and Photography Team is an award-winning, multi-faceted, full-service i
 
 In this role, you will `excel in video editing` and have the ability to `work collaboratively` within a team and `accept creative direction from senior colleagues`. You'll `work closely` with the Post Production Manager to ensure brand, style and tone are to the agreed brief and that post-production projects are completed to schedule and follow the Team’s processes and procedures.  
 
-The role is responsible for `editing video and audio projects` efficiently and to a consistently `high standard` as required by the Firm, including where appropriate generating `motion graphic and animations` to either subtly reinforce a live-action campaign message, or drive the visual narrative entirely.  
+The role is responsible for `editing video and audio projects` efficiently and to a consistently `high standard` as required by the Firm, including where appropriate generating `motion graphics and animations` to either subtly reinforce a live-action campaign message, or drive the visual narrative entirely.  
 
 > [!IMPORTANT]  
 > Please provide a `showreel` of your `previous work` along with your application.
 
 ## Responsibilities:  
-Support the Post Production Manager, work closely with them to achieve the goals of the post-production area, team and Firm, carrying out work as delegated by them  
-Follow the post-production workflow processes to the standards required by the Firm, maintaining accurate filing systems and update workflow management software.  
-Where required, take a brief to grasp the team’s requirements and specifications, following the sign off of the concept by the client. Advise the Post Production Manager and Creative Producer of any potential post-production issues apparent with the agreed creative  
-`Attend shoots` (both in-house and on location ) taking edit notes. Ingest footage from shoots. Log/input uncut rushes and sound, and synchronising and storing them into files on the system to the required standard  
-Review the raw material and compose the edit from brief, treatment and shooting notes in an NLE application (`Adobe Premiere Pro`).  
-`Create motion graphics` to enhance live action video where needed (Adobe Premier Pro & `After Effects`)  
-Suggest and/or select `music/soundtrack`, `B-roll footage` etc, as appropriate  
-Consult with stakeholders and clients to continue developing the cut, incorporating feedback, to make edit decisions to move the work through to final cut stage  
-When the cut is finalised, `grade the footage`, `sweeten the audio` and `purchase any B-roll` etc required. Add in final graphical content and liaise with colleagues regarding `risk warnings`, distribution and `deliverables`  
+Support the Post Production Manager, work closely with them to achieve the goals of the post-production area, team and Firm, carrying out work as delegated by them.  
+Follow the post-production workflow processes to the standards required by the Firm, `maintaining accurate filing systems` and `update workflow management software`.  
+Where required, take a brief to grasp the team’s requirements and specifications, following the sign off of the concept by the client. Advise the Post Production Manager and Creative Producer of any potential post-production issues apparent with the agreed creative.  
+`Attend shoots` (both in-house and on location ) `taking edit notes`. `Ingest footage` from shoots. `Log/input uncut rushes and sound`, and synchronising and storing them into files on the system to the required standard.  
+Review the raw material and `compose the edit from brief, treatment and shooting notes` in an NLE application (`Adobe Premiere Pro`).  
+`Create motion graphics` to enhance live action video where needed (Adobe Premier Pro & `After Effects`).  
+Suggest and/or select `music/soundtrack`, `B-roll footage` etc, as appropriate.  
+Consult with stakeholders and clients to continue developing the cut, incorporating feedback, to make edit decisions to move the work through to final cut stage.  
+When the cut is finalised, `grade the footage`, `sweeten the audio` and `purchase any B-roll` etc required. Add in final graphical content and liaise with colleagues regarding `risk warnings`, distribution and `deliverables`.  
 
 ## Qualifications:  
 Qualification in Filmmaking or equivalent `work experience`  
