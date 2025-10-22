@@ -17,7 +17,7 @@ Advertising stuff \-
 
 ---
 
-### The woolly job description stuff:  
+### High level, woolly job description:  
 * excel in video editing  
 * work collaboratively  
 * accept creative direction from senior colleagues  
@@ -25,7 +25,7 @@ Advertising stuff \-
 * ensure brand, style and tone are to the agreed brief  
 * post-production projects are completed to schedule  
 
-### Slightly more concrete, but high level:  
+### Slightly more concrete, but still high level:  
 * editing video and audio projects  
 * high standard  
 * motion graphics and animations  
@@ -48,9 +48,7 @@ Advertising stuff \-
 * risk warnings  
 * deliverables  
 
-
 ### General qualities and skills:  
-
 * clear communicator  
 * organisational and time management  
 * juggle multiple productions  
@@ -60,19 +58,17 @@ Advertising stuff \-
 * quality driven  
 * adhering to brand guidelines  
 
+--- 
 ## The type of candidate that we're looking for:  
-
 * detail-focussed Video Editor  
-* proven history of delivering high quality moving image  
+* proven history of delivering high quality moving images  
 * create and add motion graphics  
 * excellent storytelling skills  
 * organisational skills  
 * problem-solving skills  
 * flexible approach  
 * collaborative approach  
-* working with both the wider team  
-
+* working with both the wider team and stakeholders  
 
 # Critical skills:  
-
 ## Adaptability -- Storytelling -- Team working
