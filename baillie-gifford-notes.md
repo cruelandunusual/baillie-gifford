@@ -17,7 +17,7 @@ Overall structure should follow the three qualities listed at the end of the job
 * Inclusive comms  
 * Education Scotland case studies `(finishing each other's sentences, good grade and visual treatment, intercutting the Luna kids audio segments to punctuate what the teachers are saying)`  
 * Kent County Council `(drama)`  
-* Prison Sentencing `(finishing each other's sentences [esp between Katrina Morrison and Jim Kerr at **05:26**]; cutting the pauses and gaps out of the judge's speech; bespoke music beginning at **02:23**`  
+* Prison Sentencing `(finishing each other's sentences [esp between Katrina Morrison and Jim Kerr at _05:26_]; cutting the pauses and gaps out of the judge's speech; bespoke music beginning at _02:23_`  
 * LBG Mental Health Strategy  
 * Visit Scotland castles `(fast-paced, cutting to an exact duration)`  
 * Stagecoach Squad on board `(lots of music edits)`  
