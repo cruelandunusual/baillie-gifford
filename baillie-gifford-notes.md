@@ -14,3 +14,65 @@ Overall structure should follow the three qualities listed at the end of the job
 
 SE business films- interviews with business leaders   
 Advertising stuff \-   
+
+---
+
+### The woolly job description stuff:  
+* excel in video editing  
+* work collaboratively  
+* accept creative direction from senior colleagues  
+* work closely with the Post Production Manager  
+* ensure brand, style and tone are to the agreed brief  
+* post-production projects are completed to schedule  
+
+### Slightly more concrete, but high level:  
+* editing video and audio projects  
+* high standard  
+* motion graphics and animations  
+
+### Concrete description of tasks:  
+* maintaining accurate filing systems  
+* update workflow management software  
+* Attend shoots (both in-house and on location ) taking edit notes.  
+* Ingest footage  
+* Log/input uncut rushes and sound  
+* compose the edit from brief, treatment and shooting notes  
+* Adobe Premiere Pro  
+* Create motion graphics  
+* After Effects  
+* suggest music/soundtrack  
+* suggest B-roll footage  
+* grade the footage  
+* sweeten the audio  
+* purchase any B-roll  
+* risk warnings  
+* deliverables  
+
+
+### General qualities and skills:  
+
+* clear communicator  
+* organisational and time management  
+* juggle multiple productions  
+* highly adaptable  
+* think quickly  
+* live vision mixing a bonus  
+* quality driven  
+* adhering to brand guidelines  
+
+## The type of candidate that we're looking for:  
+
+* detail-focussed Video Editor  
+* proven history of delivering high quality moving image  
+* create and add motion graphics  
+* excellent storytelling skills  
+* organisational skills  
+* problem-solving skills  
+* flexible approach  
+* collaborative approach  
+* working with both the wider team  
+
+
+# Critical skills:  
+
+## Adaptability -- Storytelling -- Team working
