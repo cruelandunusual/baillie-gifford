@@ -10,7 +10,10 @@ Strong examples of:
 Also _stories_ of me filming, recording sound, location scouting, to show how adaptable I am. Scripting some basic bash for the backups.  
 All the stuff in the national records application about doing meetings in German and how it shows respect for colleagues. Mentoring and being mentored.
 
-Overall structure should follow the three qualities listed at the end of the job description.  
+#### Overall structure should follow the three __*Critical skills*__ listed.  
+
+---
+
 ## Good work samples
 * High end advertising stuff
     * Innis & Gunn
@@ -63,7 +66,7 @@ Overall structure should follow the three qualities listed at the end of the job
 ## Type of candidate that we're looking for:  
 * detail-focussed Video Editor -- `give examples of attention to detail (SE Making Scotland's Future, cutting to beat within shot)`  
 * proven history of delivering high quality moving images / quality driven -- `good samples of high standard of work`  
-* excellent storytelling skills / clear communicator -- `examples of crosscutting between interviews finishing each others' sentences (Napier Coghmear, Prison Sentencing)`  
+* excellent storytelling skills / clear communicator -- `examples of crosscutting between interviews finishing each others' sentences (Napier Coghmear, Prison Sentencing, NES )`  
 * organisational skills / juggle multiple productions -- `talk about fast pace of speakeasy and republic`  
 * problem-solving skills / think quickly -- `adaptable to client changes - SE Annual Review 2015, total brief change, recut overnight`  
 * flexible approach / highly adaptable -- `open to new ideas, can do lots of different types of edits (Kent drama, animation, Orkney long form documentary)`  
