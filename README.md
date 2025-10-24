@@ -39,7 +39,7 @@ Qualification in Filmmaking or equivalent `work experience`
 
 ## Your knowledge and experience:  
 
-Be a `clear communicator`, able to effectively communicate ideas with the team and stakeholders  
+Be a ~~`clear communicator`~~, able to effectively communicate ideas with the team and stakeholders  
 Strong `organisational and time management` skills - able to follow existing processes and `juggle multiple productions` concurrently while keeping production notes regularly updated on production management software  
 Be `highly adaptable`, able to flex as the productions require and be able to `think quickly` while maintaining composure  
 Experience of `live vision mixing a bonus`, although training can be given  
@@ -60,4 +60,4 @@ We're looking for a detail-focussed Video Editor with a `proven history` of deli
 > Closing Date
 > November 7, 2025
 
-At Baillie Gifford we are committed to fostering an `inclusive and respectful culture` in which each of our colleagues can thrive and develop. We believe that our clients are best served by a diverse workforce with the experiences, ideas and perspectives that this brings.
+At Baillie Gifford we are committed to fostering an ~~`inclusive and respectful culture`~~ in which each of our colleagues can thrive and develop. We believe that our clients are best served by a diverse workforce with the experiences, ideas and perspectives that this brings.
