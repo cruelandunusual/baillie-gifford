@@ -27,6 +27,29 @@ I value working in a supportive and positive environment, and constantly strive 
 >Since being made redundant in late 2024 I have taken a career break, but continued to hone my editing skills with a [self-directed project](https://linkhere.com) editing a drama from [EditStock footage](https://editstock.com/).
 
 
+>I am a skilled and creative editor with 16 years experience of collaborative working in a production environment and seven years of freelance experience before that.
+>I have cut dramas, interview-led corporate case studies, long-form documentaries, short social media clips, animations, audio-only podcasts, and lots more.
+>I am used to working in a fast-paced environment to challenging deadlines.
+>I have worked alongside directors and producers in the edit suite, as well as with clients on many occasions.  I am equally comfortable working on my own initiative, whether from a detailed brief or a loose idea.
+>I have vast experience of all aspects of the post-production pipeline: from ingesting and logging footage, to editing, colour correction and sound mastering, and archiving and retrieving projects to and from long-term storage.
+>I am highly experienced with both Premiere Pro and Final Cut Pro, and also have experience of DaVinci Resolve and Avid Media Composer. I am very comfortable with After Effects and Adobe Audition, having used both extensively throughout my career, and am also experienced with Adobe Photoshop and Illustrator and the Microsoft Office suite.
+>I also have years of experience of directing, producing, camera operating and location sound recording. 
+>I have strong technical skills, with wide experience of all major video and audio formats. I am comfortable with all operating systems and have experience of batch scripting and automation of tasks.
+>I value working in a supportive and positive environment, and constantly strive to achieve the best results possible in my work. I am a fast learner, have excellent communication skills, and am strongly motivated to continue learning and growing in my career.
+
+
+Premiere Pro
+Final Cut Pro
+After Effects
+DaVinci Resolve
+Avide Media Composer
+Adobe Audition
+Microsoft Office
+Google Workspace
+
+
+>I have strong technical skills, with wide experience of all major video and audio formats. I am comfortable with all operating systems and have experience of batch scripting and automation of tasks in both Windows and Unix environments.
+
 ### end scratch  
 
 ---  
