@@ -38,14 +38,6 @@ I value working in a supportive and positive environment, and constantly strive 
 >I value working in a supportive and positive environment, and constantly strive to achieve the best results possible in my work. I am a fast learner, have excellent communication skills, and am strongly motivated to continue learning and growing in my career.
 
 
-Premiere Pro
-Final Cut Pro
-After Effects
-DaVinci Resolve
-Avide Media Composer
-Adobe Audition
-Microsoft Office
-Google Workspace
 
 
 >I have strong technical skills, with wide experience of all major video and audio formats. I am comfortable with all operating systems and have experience of batch scripting and automation of tasks in both Windows and Unix environments.
@@ -54,7 +46,8 @@ Google Workspace
 
 ---  
 
-
+I have been a filmmaker for over twenty years, initially as a freelancer, producing and directing music videos and documentaries for music industry clients; from 2008 until 2024 I was a full-time in-house agency editor, where I primarily edited corporate communications for both public and private sector clients such as the NHS, Scottish Government, Scottish Enterprise, Lloyds Banking Group, Edinburgh University, Newton Investment Management, among many others.
+Since being made redundant in late 2024 I have taken a career break, but continued to hone my editing skills with some self-directed projects using footage from EditStock.
 
 
 ## Critical Skills  
@@ -94,3 +87,4 @@ In my previous role at Speakeasy Productions, and also from my time as a softwar
 ## Summary
 
 I believe I would be a good fit for Baillie Gifford; I am highly motivated, adaptable, and eager to continue growing in my career. I thrive in supportive, collaborative team environments where the work is both varied and challenging, and I aspire to be a supportive, positive colleague.
+
