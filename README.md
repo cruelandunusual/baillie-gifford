@@ -33,10 +33,10 @@
     * [Scottish Enterprise - Making Scotlands Future](https://youtu.be/RAalmdrNasE)
 
 * #### _Cutting to beat_
-    * [Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=rzUqfE_HoayaK_4x&t=43) _matching the cuts to the beat_  
+    * [Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=rzUqfE_HoayaK_4x&t=43) _(matching the cuts to the beat)_  
         Standard cutting from shot to shot on the beat of the track.
-    * [Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=tRd2PAsa6_ph4c9k&t=51) _matching the action of the shot to the beat_  
-        The robot arm in this shot has been retimed so that it's staccato movements are timed with the beat of the track.
+    * [Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=tRd2PAsa6_ph4c9k&t=51) _(matching the action of the shot to the beat)_  
+        The robot arm in this shot has been retimed so that its staccato movements are timed with the beat of the track.
 
 * #### _Creative use of music and audio_
     * [NHS Education for Scotland - Bereavement in the A&E](https://youtu.be/s7G6mfRpoCU?si=8-2eFVx4lMFJgNlG&t=231) _(starts at 03:51)_  
