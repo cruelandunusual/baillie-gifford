@@ -1,63 +1,51 @@
 # Baillie Gifford  
-## Video Editor - 18 month fixed term contract  
+## Peter Smith editor - samples of previous work  
 
-## To do:  
-* go through job application process, see what they're actually looking for - case studies, a general statement, etc.  
-* add visual sliders to CV showing skill level with various editing software, etc  
-* a bit more visual pizzazz in the bulleted section on soft skills (working in teams, etc.)  
-* archive from Stuart  
-* Premiere Pro editing practise  
+### Examples of common categories of films
+* #### _Long form documentary_
+    *  [Scottish Wildlife Trust - Oceans of Value (32 mins)](https://youtu.be/x-fg-mD1SrQ)  
+    This was edited down from 27 hours of interview footage filmed by the client.  
+    The cutaways were sourced from an Orkney-based wildlife broadcast camera operator.
+* #### _Drama_
+    * [Kent County Council - Fraud and Financial Abuse](https://youtu.be/3KcZIXhrRxw)
+* #### _Event Opening Film_
+    * [Newton - 2021 Conference promo](https://youtu.be/23cg27VoVzA) _(composed entirely of stock and custom graphics)_
+    * [Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE)
+* #### _Promo_
+    * [Scottish Enterprise - Annual Review 2015](https://youtu.be/OnoYiEk2ZnE)  
+        This was recut in a single night from the original brief as the client didn't like the treatment.  
+        The footage was repurposed and mixed with stock and the client's library footage.
+* #### _Presentation_
+    * [Newton Presentation 2024](https://youtu.be/I7ReTu0gRrs)
+* #### _Magazine-style documentary reportage_
+    * [Lloyds Banking Group - Customer First TV - Risk](https://youtu.be/RwQuzzzNCbE)
 
----
+### Examples of specific features
+* Interviewees intercut seamlessly  
+    * [Education Scotland – Outdoor Learning](https://youtu.be/rRa7cL7VpGE)
+    * [NHS Education for Scotland - Mobile Skills Unit Testimonial](https://youtu.be/xj1KGAnKtWM) _(interviewees filmed during lockdown over Zoom)_
 
-## About the department  
+* On-brand graphics
+    * [Napier Innovation Hub - Coghmear](https://youtu.be/Cw7e0ic7Ey4)
+    * [Visit Scotland - Youtube pre-roll ad - Castles (German graphics)](https://youtu.be/yT0CJiXv0-U)
 
-The Film and Photography Team is an award-winning, multi-faceted, full-service in house resource creating engaging content for the firm’s audiences, internal and external, around the globe. The team has a broad range of expertise and experience and draw upon these to produce impactful films, animations, stills content and campaigns for the benefit of Baillie Gifford and its clients. The team collaborate with a range of other in-house teams and stakeholders as well as external suppliers and freelancers to deliver engaging and impactful media.  
+* Mixing externally supplied graphics with edit suite visual enhancements
+    * [Scottish Enterprise - Making Scotlands Future](https://youtu.be/RAalmdrNasE)
 
-## Purpose of Role  
+* Cutting to beat
+    * [Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=rzUqfE_HoayaK_4x&t=43) _matching the cuts to the beat_  
+        Standard cutting from shot to shot on the beat of the track.
+    * [Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=tRd2PAsa6_ph4c9k&t=51) _matching the action of the shot to the beat_  
+        The robot arm in this shot has been retimed so that it's staccato movements are timed with the beat of the track.
 
-In this role, you will `excel in video editing` and have the ability to `work collaboratively` within a team and `accept creative direction from senior colleagues`. You'll `work closely` with the Post Production Manager to ensure brand, style and tone are to the agreed brief and that post-production projects are completed to schedule and follow the Team’s processes and procedures.  
+* Creative use of music and audio
+    * [NHS Education for Scotland - Bereavement in the A&E](https://youtu.be/s7G6mfRpoCU?si=8-2eFVx4lMFJgNlG&t=231) _(starts at 03:51)_  
+    The section of the video that begins at 03:51 has reversed music to create an unsettling feeling.
+    * [NHS Education for Scotland - Bereavement in the A&E](https://youtu.be/s7G6mfRpoCU?si=h7mCs0CxmZIC8Cp8&t=470) _(starts at 07:50)_  
+    The section of the video at 07:50 has music used both as background and coming to the fore as a sound effect to punctuate the nurse's story.
+    * [Scottish Courts and Tribunal Services - Prison Sentencing](https://youtu.be/8ikps64ec3I?si=H2hRTtyFH2XLLq_2&t=139) _(starts at 02:19)_  
+    I altered the Audio Network music in the section that begins at 02:19 with an alternative synthesiser from Ableton Live rather than replacing the piece entirely, when one of my colleagues didn't like the original track.
 
-The role is responsible for `editing video and audio projects` efficiently and to a consistently `high standard` as required by the Firm, including where appropriate generating `motion graphics and animations` to either subtly reinforce a live-action campaign message, or drive the visual narrative entirely.  
+### Interesting early career work  
+* [The Recording of Mr Beast](https://youtu.be/InCGES-5KSg?si=RsfI-RrMsqPth3ro&t=0)
 
-> [!IMPORTANT]  
-> Please provide a `showreel` of your `previous work` along with your application.
-
-## Responsibilities:  
-Support the Post Production Manager, work closely with them to achieve the goals of the post-production area, team and Firm, carrying out work as delegated by them.  
-Follow the post-production workflow processes to the standards required by the Firm, `maintaining accurate filing systems` and `update workflow management software`.  
-Where required, take a brief to grasp the team’s requirements and specifications, following the sign off of the concept by the client. Advise the Post Production Manager and Creative Producer of any potential post-production issues apparent with the agreed creative.  
-`Attend shoots` (both in-house and on location ) `taking edit notes`. `Ingest footage` from shoots. `Log/input uncut rushes and sound`, and synchronising and storing them into files on the system to the required standard.  
-Review the raw material and `compose the edit from brief, treatment and shooting notes` in an NLE application (`Adobe Premiere Pro`).  
-`Create motion graphics` to enhance live action video where needed (Adobe Premier Pro & `After Effects`).  
-Suggest and/or select `music/soundtrack`, `B-roll footage` etc, as appropriate.  
-Consult with stakeholders and clients to continue developing the cut, incorporating feedback, to make edit decisions to move the work through to final cut stage.  
-When the cut is finalised, `grade the footage`, `sweeten the audio` and `purchase any B-roll` etc required. Add in final graphical content and liaise with colleagues regarding `risk warnings`, distribution and `deliverables`.  
-
-## Qualifications:  
-Qualification in Filmmaking or equivalent `work experience`  
-
-## Your knowledge and experience:  
-
-Be a ~~`clear communicator`~~, able to effectively communicate ideas with the team and stakeholders  
-Strong `organisational and time management` skills - able to follow existing processes and `juggle multiple productions` concurrently while keeping production notes regularly updated on production management software  
-Be `highly adaptable`, able to flex as the productions require and be able to `think quickly` while maintaining composure  
-Experience of `live vision mixing a bonus`, although training can be given  
-Deadline and `quality driven`, being able to balance both in the edit to deliver on stakeholder expectations  
-A history of working with and `adhering to brand guidelines`  
-
-## The type of candidate that we're looking for:  
-
-We're looking for a detail-focussed Video Editor with a `proven history` of delivering high quality moving image with the ability to `create and add motion graphics` where necessary on projects to brief and brand. They should have excellent `storytelling`, `organisational` and `problem-solving skills`, with a `flexible` and `collaborative approach` to working with both the `wider team` and the firm's `internal stakeholders`.
-
-## Critical skills:  
-
-#### `Adaptability`  
-#### `Storytelling`  
-#### `Team working`  
-
-> [!WARNING]  
-> Closing Date
-> November 7, 2025
-
-At Baillie Gifford we are committed to fostering an ~~`inclusive and respectful culture`~~ in which each of our colleagues can thrive and develop. We believe that our clients are best served by a diverse workforce with the experiences, ideas and perspectives that this brings.
