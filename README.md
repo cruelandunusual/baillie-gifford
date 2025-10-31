@@ -38,7 +38,7 @@ This is another example where the participants are closely intercut.
 [Napier Innovation Hub - Coghmear](https://youtu.be/Cw7e0ic7Ey4)  
 This video for Napier University, part of a series of 25 case studies, has simple but effective on-brand graphics; these were done collaboratively with the client, who selected the phrases to pull out from an initial version of the video; I then created the animations in After Effects according to the brand guidelines.  
 [Visit Scotland - Youtube pre-roll ad (Castles promo with German graphics)](https://youtu.be/yT0CJiXv0-U)  
-I worked closely with the client to ensure the German text is consistently readable despite being on screen screen briefly and in unpredictabe areas of the screen.  
+I worked closely with the client to ensure the German text is consistently readable despite being on-screen briefly and in unpredictabe areas of the screen.  
 This is also an example of cutting to an exact duration (30 seconds).  
 
 ### _Mixing externally supplied graphics with edit suite visual enhancements:_
