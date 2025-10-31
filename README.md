@@ -60,8 +60,12 @@ The section of the video at 07:50 has music used both as background and coming t
 [Scottish Courts and Tribunal Services - Prison Sentencing](https://youtu.be/8ikps64ec3I?si=H2hRTtyFH2XLLq_2&t=139) _(starts at 02:19)_  
 I altered the Audio Network music in the section that begins at 02:19 with an alternative synthesiser from Ableton Live rather than replacing the piece entirely, when one of my colleagues didn't like the original track.  
 
+---
+
 ## Playlist of other work  
 [Peter Smith editor playlist](https://www.youtube.com/playlist?list=PLSf4yC-kM8p7FxLL5mHpUCNuB2_qiWKbN)
+
+---
 
 ## Noteworthy early career work  
 [The Recording of Mr Beast](https://youtu.be/InCGES-5KSg?si=RsfI-RrMsqPth3ro&t=0)  
