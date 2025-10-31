@@ -47,9 +47,9 @@ For this video I enhanced the edit with punch-ins and channel blurring, as well 
 these were then combined with the externally supplied light paths.  
 
 ### _Cutting to beat:_
-[Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=rzUqfE_HoayaK_4x&t=43) _(matching the cuts to the beat)_  
+[Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=rzUqfE_HoayaK_4x&t=43) _(starts at 00:43)_  
 Standard cutting from shot to shot on the beat of the track.  
-[Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=tRd2PAsa6_ph4c9k&t=51) _(matching the action of the shot to the beat)_  
+[Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=tRd2PAsa6_ph4c9k&t=51) _(starts at 00:51)_  
 The robot arm in this shot has been retimed so that its staccato movements are timed with the beat of the track.  
 
 ### _Creative use of music and audio:_  
