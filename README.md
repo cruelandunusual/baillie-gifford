@@ -21,24 +21,24 @@
     * [Lloyds Banking Group - Customer First TV - Risk](https://youtu.be/RwQuzzzNCbE)
 
 ### Examples of specific features
-* Interviewees intercut seamlessly  
+* #### _Interviewees intercut seamlessly_
     * [Education Scotland – Outdoor Learning](https://youtu.be/rRa7cL7VpGE)
     * [NHS Education for Scotland - Mobile Skills Unit Testimonial](https://youtu.be/xj1KGAnKtWM) _(interviewees filmed during lockdown over Zoom)_
 
-* On-brand graphics
+* #### _On-brand graphics_
     * [Napier Innovation Hub - Coghmear](https://youtu.be/Cw7e0ic7Ey4)
     * [Visit Scotland - Youtube pre-roll ad - Castles (German graphics)](https://youtu.be/yT0CJiXv0-U)
 
-* Mixing externally supplied graphics with edit suite visual enhancements
+* #### _Mixing externally supplied graphics with edit suite visual enhancements_
     * [Scottish Enterprise - Making Scotlands Future](https://youtu.be/RAalmdrNasE)
 
-* Cutting to beat
+* #### _Cutting to beat_
     * [Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=rzUqfE_HoayaK_4x&t=43) _matching the cuts to the beat_  
         Standard cutting from shot to shot on the beat of the track.
     * [Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=tRd2PAsa6_ph4c9k&t=51) _matching the action of the shot to the beat_  
         The robot arm in this shot has been retimed so that it's staccato movements are timed with the beat of the track.
 
-* Creative use of music and audio
+* #### _Creative use of music and audio_
     * [NHS Education for Scotland - Bereavement in the A&E](https://youtu.be/s7G6mfRpoCU?si=8-2eFVx4lMFJgNlG&t=231) _(starts at 03:51)_  
     The section of the video that begins at 03:51 has reversed music to create an unsettling feeling.
     * [NHS Education for Scotland - Bereavement in the A&E](https://youtu.be/s7G6mfRpoCU?si=h7mCs0CxmZIC8Cp8&t=470) _(starts at 07:50)_  
@@ -46,6 +46,5 @@
     * [Scottish Courts and Tribunal Services - Prison Sentencing](https://youtu.be/8ikps64ec3I?si=H2hRTtyFH2XLLq_2&t=139) _(starts at 02:19)_  
     I altered the Audio Network music in the section that begins at 02:19 with an alternative synthesiser from Ableton Live rather than replacing the piece entirely, when one of my colleagues didn't like the original track.
 
-### Interesting early career work  
+### Interesting early career work
 * [The Recording of Mr Beast](https://youtu.be/InCGES-5KSg?si=RsfI-RrMsqPth3ro&t=0)
-
