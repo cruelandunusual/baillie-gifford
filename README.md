@@ -30,7 +30,7 @@
     * [Visit Scotland - Youtube pre-roll ad - Castles (German graphics)](https://youtu.be/yT0CJiXv0-U)
 
 * #### _Mixing externally supplied graphics with edit suite visual enhancements_
-    * [Scottish Enterprise - Making Scotlands Future](https://youtu.be/RAalmdrNasE)
+    * [Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE)
 
 * #### _Cutting to beat_
     * [Scottish Enterprise - Making Scotland's Future](https://youtu.be/RAalmdrNasE?si=rzUqfE_HoayaK_4x&t=43) _(matching the cuts to the beat)_  
