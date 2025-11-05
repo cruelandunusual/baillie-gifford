@@ -1,5 +1,5 @@
 # Peter Smith editor  
-## Samples of previous work  
+## Samples of work  
 ---
 ## Examples of common categories of films
 ### _Long form documentary:_
