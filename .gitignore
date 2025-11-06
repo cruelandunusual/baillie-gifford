@@ -1,0 +1,5 @@
+Thumbs.db
+.vs
+**/.vs/
+# prevent the original CV and letter document files from being tracked.
+docs/
