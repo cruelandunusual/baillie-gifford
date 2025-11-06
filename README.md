@@ -30,17 +30,29 @@ My role at Republic Productions involved maintaining the IT systems of the compa
 
 ### Storytelling
 
-Having edited professionally for 20 years, I am a highly adaptable editor with a flexible approach, and I have a huge range of experience across various genres and formats: [long form documentary](https://youtu.be/x-fg-mD1SrQ?si=HdyVZPs6ZJurfGOg); [drama](https://youtu.be/tPjJxcLPt9A?si=s4q-WC3EWJ8PnWMn); [event opening films](https://youtu.be/EafO0Zf-9Q0); [bespoke technical presentations](https://youtu.be/yvql0oVCLIU); and [monthly magazine-style reportage](https://youtu.be/RwQuzzzNCbE).  
+Having edited professionally for 20 years, I am a highly adaptable editor with a flexible approach, and I have a huge range of experience across various genres and formats:
+* [long form documentary](https://youtu.be/x-fg-mD1SrQ?si=HdyVZPs6ZJurfGOg)
+* [drama](https://youtu.be/tPjJxcLPt9A?si=s4q-WC3EWJ8PnWMn)
+* [event opening films](https://youtu.be/EafO0Zf-9Q0)
+* [bespoke technical presentations](https://youtu.be/yvql0oVCLIU)
+* [monthly magazine-style reportage](https://youtu.be/RwQuzzzNCbE)
 
-I feel I have a strength for cutting interviews; when the material allows, I endeavour to intercut the participants in such a way that they seamlessly flow from one speaker to the next; for instance, a transcript of [this video for Education Scotland](https://youtu.be/rRa7cL7VpGE) might read as though only one person was speaking throughout, which is appropriate in this instance given that all the teachers speak equally highly of the benefits of outdoor learning. [This NHS video](https://youtu.be/xj1KGAnKtWM) is another example where I used this technique effectively.  
+#### Interviews
+I feel I have a strength for cutting interviews; when the material allows, I endeavour to intercut the participants in such a way that they seamlessly flow from one speaker to the next.  
+For instance, a transcript of [this video for Education Scotland](https://youtu.be/rRa7cL7VpGE) might read as though only one person was speaking throughout, which is appropriate in this instance given that all the teachers speak equally highly of the benefits of outdoor learning.  
+[This NHS video](https://youtu.be/xj1KGAnKtWM) is another example where I used this technique effectively.  
 
-
+#### Promos
 I am also experienced at cutting promos where the emphasis is on the interplay of the visuals and the music; [this event opening film for Scottish Enterprise](https://youtu.be/RAalmdrNasE?si=rzUqfE_HoayaK_4x) has examples of [cutting to different shots on the beat](https://youtu.be/RAalmdrNasE?si=rzUqfE_HoayaK_4x&t=43), and also having the action [synchronise with the beat](https://youtu.be/RAalmdrNasE?si=tRd2PAsa6_ph4c9k&t=51) of some shots (the robot arm in this example).  
-The video is also a good example of integrating graphics done by an external motion graphics artists, with the animated light paths provided by them, and the picture scaling effect synchronised with the beat done by me.
+The video is also a good example of integrating graphics done by an external motion graphics artists, with the animated light paths provided by them, and the picture scaling effect synchronised with the beat done by me.  
 
-[This video for Napier University](https://youtu.be/Cw7e0ic7Ey4), part of a series of 25 case studies, has simple but effective on-brand graphics; these were done collaboratively with the client, who selected the phrases to pull out from an initial version of the video, and I then created the animation in After Effects according to the brand guidelines.  [This VisitScotland Youtube pre-roll advert](https://youtu.be/yT0CJiXv0-U) for the German market has German text throughout, often on screen briefly and in unpredictabe areas of the screen, required close collaboration with the client to ensure consisten readability. It's also a good example of cutting to an exact duration (30 seconds).  
+#### Graphics
+[This video for Napier University](https://youtu.be/Cw7e0ic7Ey4), part of a series of 25 case studies, has simple but effective on-brand graphics; these were done collaboratively with the client, who selected the phrases to pull out from an initial version of the video, and I then created the animation in After Effects according to the brand guidelines.  
+[This VisitScotland Youtube pre-roll advert](https://youtu.be/yT0CJiXv0-U) for the German market has German text throughout, often on screen briefly and in unpredictabe areas of the screen; it required close collaboration with the client to ensure consisten readability. It's also a good example of cutting to an exact duration (30 seconds).  
 
-I also take great pride in sound and music editing. [This video for the NHS](https://youtu.be/s7G6mfRpoCU?si=8-2eFVx4lMFJgNlG), recorded over Teams during the pandemic to inform the NHS workforce about workplace bereavement, has creative use of sound and music, inluding [reversed music to create an unsettling feeling](https://youtu.be/s7G6mfRpoCU?si=8-2eFVx4lMFJgNlG&t=231) and music [used as a sound effect, to punctuate the nurse's story](https://youtu.be/s7G6mfRpoCU?si=h7mCs0CxmZIC8Cp8&t=470). Also, I altered [this piece of music](https://youtu.be/8ikps64ec3I?si=H2hRTtyFH2XLLq_2&t=139) with an alternative synthesiser, rather than replacing the piece entirely, when one of my colleagues didn't like the original track.  
+#### Sound / Music
+I also take great pride in sound and music editing. [This video for the NHS](https://youtu.be/s7G6mfRpoCU?si=8-2eFVx4lMFJgNlG), recorded over Teams during the pandemic to inform the NHS workforce about workplace bereavement, has creative use of sound and music, inluding [reversed music to create an unsettling feeling](https://youtu.be/s7G6mfRpoCU?si=8-2eFVx4lMFJgNlG&t=231) and music [used as a sound effect, to punctuate the nurse's story](https://youtu.be/s7G6mfRpoCU?si=h7mCs0CxmZIC8Cp8&t=470).  
+Also, for [this video for the Scottish Courts and Tribunal Services](https://youtu.be/8ikps64ec3I?si=H2hRTtyFH2XLLq_2&t=139), I altered the Audio Network track that begins at 02:20 with an alternative synthesiser in Ableton Live, rather than replacing the track entirely, when one of my colleagues didn't like the original track.  
 
 At times I have worked to challenging deadlines; [this annual review video for Scottish Enterprise](https://youtu.be/OnoYiEk2ZnE) was recut in a single _(long!)_ night when the client didn't like the v1 of the original brief. The re-edit repurposed the footage (the black and white shots of SE employees) along with shots from SE's library.
 
