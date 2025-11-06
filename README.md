@@ -11,7 +11,7 @@ I have been a filmmaker for over twenty years; from 2008 until 2024 I was a full
 
 Since being made redundant in late 2024 I have taken a career break, but continued to hone my editing skills with some self-directed projects using footage from EditStock.  
 
-I am highly experienced with both Premiere Pro and Final Cut Pro, and also have experience of DaVinci Resolve and Avid Media Composer. I am very comfortable with After Effects and Adobe Audition, having used both extensively throughout my career, and am also experienced with Adobe Photoshop and Illustrator and the Microsoft Office suite.  
+I am highly experienced with both `Premiere Pro` and `Final Cut Pro`, and also have experience of `DaVinci Resolve` and `Avid Media Composer`. I am very comfortable with `After Effects` and `Adobe Audition`, having used both extensively throughout my career, and am also experienced with `Adobe Photoshop` and `Illustrator` and the `Microsoft Office` suite.  
 
 ---  
 
