@@ -3,7 +3,7 @@
 # Peter Smith editor
 ## About me
 
-I am an experienced video editor looking to further develop my career. I am seeking a role in an organisation that will offer me interesting development opportunities and career progression, and I believe Baillie Gifford will give me those opportunities.
+I am an experienced video editor looking to further develop my career. I am seeking a role in an organisation that will offer me interesting career development opportunities and progression, and I believe Baillie Gifford will give me those opportunities.
 
 ## Experience / Technical and Professional skills  
 
