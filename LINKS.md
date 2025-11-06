@@ -1,3 +1,4 @@
+[Back to answers page][response]  
 # Peter Smith editor  
 ## Samples of work  
 ---
