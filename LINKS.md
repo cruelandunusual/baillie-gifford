@@ -1,5 +1,5 @@
 [Back to answers page][response]  
-# Peter Smith video editing samples
+# Video editing samples
 ## _Examples of common categories of films_
 ### _Long form documentary:_
 >[Scottish Wildlife Trust - Oceans of Value (32 mins)](https://youtu.be/x-fg-mD1SrQ)  
