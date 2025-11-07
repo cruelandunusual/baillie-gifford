@@ -1,8 +1,6 @@
 [Back to answers page][response]  
-# Peter Smith editor  
-## Samples of work  
----
-## Examples of common categories of films
+# Peter Smith video editing samples
+## _Examples of common categories of films_
 ### _Long form documentary:_
 >[Scottish Wildlife Trust - Oceans of Value (32 mins)](https://youtu.be/x-fg-mD1SrQ)  
 This was edited down from 27 hours of interview footage filmed by the client.  
@@ -29,7 +27,7 @@ Glitchy sound effects and moody music bring this to life.
 
 --- 
 
-## Examples of specific features  
+## _Examples of specific features_  
 ### _Interviewees intercut seamlessly:_  
 >[Education Scotland - Outdoor Learning](https://youtu.be/rRa7cL7VpGE)  
 A transcript of this video might read as though only one person was speaking throughout, which is appropriate in this instance given that all the teachers speak equally highly of the benefits of outdoor learning.  
@@ -64,8 +62,8 @@ I altered the Audio Network music in the section that begins at 02:19 with an al
 
 ---
 
-## Playlist of other work  
-> [!IMPORTANT]
+## _Playlist of other work_  
+> [!IMPORTANT]  
 > [Playlist of complete films](https://www.youtube.com/playlist?list=PLSf4yC-kM8p7FxLL5mHpUCNuB2_qiWKbN)  
 > A YouTube playlist of complete videos made during my time as an inhouse editor.  
 > [Showreel](https://youtu.be/j3nW8g24qeg)  
@@ -73,10 +71,10 @@ I altered the Audio Network music in the section that begins at 02:19 with an al
 
 ---
 
-## Noteworthy early career work  
+## _Noteworthy early career work_  
 >[The Recording of Mr Beast](https://youtu.be/InCGES-5KSg?si=RsfI-RrMsqPth3ro&t=0)  
 I produced, directed and filmed almost all of this fly-on-the wall documentary made to accompany the release of the album Mr Beast.  
-
+---
 [Back to answers page][response]  
 
 
