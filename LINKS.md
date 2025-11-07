@@ -1,4 +1,4 @@
-[Back to answers page][response]  
+[Back to answers page][response]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]
 # Video editing samples
 ## _Examples of common categories of films_
 ### _Long form documentary:_
@@ -75,9 +75,11 @@ I altered the Audio Network music in the section that begins at 02:19 with an al
 >[The Recording of Mr Beast](https://youtu.be/InCGES-5KSg?si=RsfI-RrMsqPth3ro&t=0)  
 I produced, directed and filmed almost all of this fly-on-the wall documentary made to accompany the release of the album Mr Beast.  
 ---
-[Back to answers page][response]  
-
+[Back to answers page][response]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]
 
 <!-- links -->
 
 [response]: README.md
+[links_page]: LINKS.md
+[cv]: Peter_Smith_CV.pdf
+[letter]: Peter_Smith_BG_cover_letter.pdf
