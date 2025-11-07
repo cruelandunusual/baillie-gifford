@@ -31,12 +31,11 @@ My role at Republic Productions involved maintaining the IT systems of the compa
 ### Storytelling
 
 Having edited professionally for 20 years, I am a highly adaptable editor with a flexible approach, and I have a huge range of experience across various genres and formats:  
-> [!TIP]
-> * [long form documentary](https://youtu.be/x-fg-mD1SrQ?si=HdyVZPs6ZJurfGOg)
-> * [drama](https://youtu.be/tPjJxcLPt9A?si=s4q-WC3EWJ8PnWMn)
-> * [event opening films](https://youtu.be/EafO0Zf-9Q0)
-> * [bespoke technical presentations](https://youtu.be/yvql0oVCLIU)
-> * [current affairs-style reportage](https://youtu.be/RwQuzzzNCbE)
+* [long form documentary](https://youtu.be/x-fg-mD1SrQ?si=HdyVZPs6ZJurfGOg)
+* [drama](https://youtu.be/tPjJxcLPt9A?si=s4q-WC3EWJ8PnWMn)
+* [event opening films](https://youtu.be/EafO0Zf-9Q0)
+* [bespoke technical presentations](https://youtu.be/yvql0oVCLIU)
+* [current affairs-style reportage](https://youtu.be/RwQuzzzNCbE)
 
 >#### Interviews
 >I feel I have a strength for cutting interviews; when the material allows, I endeavour to intercut the participants in such a way that they seamlessly flow from one speaker to the next.  
@@ -71,6 +70,8 @@ In my previous role at Speakeasy Productions, and also from my time as a softwar
 ## Summary  
 
 I believe I would be a good fit for Baillie Gifford; I am highly skilled, motivated, adaptable, and eager to continue growing in my career. I thrive in supportive, collaborative team environments where the work is both varied and challenging, and I aspire to be a supportive, positive colleague.  
+
+---
 
 [Video links page][links_page]
 
