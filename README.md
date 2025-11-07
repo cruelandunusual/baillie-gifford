@@ -1,4 +1,4 @@
-[Video links page][links_page]
+[Video links page][links_page]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]
 
 # Peter Smith editor
 ## About me
@@ -73,8 +73,10 @@ I believe I would be a good fit for Baillie Gifford; I am highly skilled, motiva
 
 ---
 
-[Video links page][links_page]
+[Video links page][links_page]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]
 
 <!-- links -->
 
 [links_page]: LINKS.md
+[cv]: Peter_Smith_CV.pdf
+[letter]: Peter_Smith_BG_cover_letter.pdf
