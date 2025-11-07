@@ -23,7 +23,7 @@ The footage was repurposed and mixed with stock and the client's library footage
 >[Newton Presentation 2024](https://youtu.be/I7ReTu0gRrs)  
 The client didn't have a large graphics budget; I used their abstract black cube branding as a text background.  
 Also an example of making sure the client's risk warnings are visible and readable.  
-### _Magazine-style documentary reportage:_  
+### _Current affairs-style documentary reportage:_  
 >[Lloyds Banking Group - Customer First TV (Risk episode)](https://youtu.be/RwQuzzzNCbE)  
 Glitchy sound effects and moody music bring this to life.  
 
@@ -73,7 +73,7 @@ A one minute showreel with some samples of work from the last few years.
 ---
 
 ## Noteworthy early career work  
->[The Recording of Mr Beast](https://youtu.be/InCGES-5KSg?si=RsfI-RrMsqPth3ro&t=0)  
+>[!IMPORTANT][The Recording of Mr Beast](https://youtu.be/InCGES-5KSg?si=RsfI-RrMsqPth3ro&t=0)  
 I produced, directed and filmed almost all of this fly-on-the wall documentary made to accompany the release of the album Mr Beast.  
 
 [Back to answers page][response]  
