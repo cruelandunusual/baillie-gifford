@@ -1,4 +1,5 @@
-[Back to answers page][response]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]
+[Back to answers page][response]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Showreel][showreel]
+
 # Video editing samples
 ## _Examples of common categories of films_
 ### _Long form documentary:_
@@ -63,7 +64,7 @@ I altered the Audio Network music in the section that begins at 02:19 with an al
 ---
 
 ## _Playlist of other work_  
-> [!IMPORTANT]  
+> [!NOTE]  
 > [Playlist of complete films](https://www.youtube.com/playlist?list=PLSf4yC-kM8p7FxLL5mHpUCNuB2_qiWKbN)  
 > A YouTube playlist of complete videos made during my time as an inhouse editor.  
 > [Showreel](https://youtu.be/j3nW8g24qeg)  
@@ -75,7 +76,7 @@ I altered the Audio Network music in the section that begins at 02:19 with an al
 >[The Recording of Mr Beast](https://youtu.be/InCGES-5KSg?si=RsfI-RrMsqPth3ro&t=0)  
 I produced, directed and filmed almost all of this fly-on-the wall documentary made to accompany the release of the album Mr Beast.  
 ---
-[Back to answers page][response]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]
+[Back to answers page][response]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Showreel][showreel]
 
 <!-- links -->
 
@@ -83,3 +84,4 @@ I produced, directed and filmed almost all of this fly-on-the wall documentary m
 [links_page]: LINKS.md
 [cv]: Peter_Smith_CV.pdf
 [letter]: Peter_Smith_BG_cover_letter.pdf
+[showreel]: https://youtu.be/j3nW8g24qeg
