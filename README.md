@@ -30,12 +30,13 @@ My role at Republic Productions involved maintaining the IT systems of the compa
 
 ### Storytelling
 
-Having edited professionally for 20 years, I am a highly adaptable editor with a flexible approach, and I have a huge range of experience across various genres and formats:
-* [long form documentary](https://youtu.be/x-fg-mD1SrQ?si=HdyVZPs6ZJurfGOg)
-* [drama](https://youtu.be/tPjJxcLPt9A?si=s4q-WC3EWJ8PnWMn)
-* [event opening films](https://youtu.be/EafO0Zf-9Q0)
-* [bespoke technical presentations](https://youtu.be/yvql0oVCLIU)
-* [monthly magazine-style reportage](https://youtu.be/RwQuzzzNCbE)
+Having edited professionally for 20 years, I am a highly adaptable editor with a flexible approach, and I have a huge range of experience across various genres and formats:  
+> [!TIP]
+> * [long form documentary](https://youtu.be/x-fg-mD1SrQ?si=HdyVZPs6ZJurfGOg)
+> * [drama](https://youtu.be/tPjJxcLPt9A?si=s4q-WC3EWJ8PnWMn)
+> * [event opening films](https://youtu.be/EafO0Zf-9Q0)
+> * [bespoke technical presentations](https://youtu.be/yvql0oVCLIU)
+> * [current affairs-style reportage](https://youtu.be/RwQuzzzNCbE)
 
 >#### Interviews
 >I feel I have a strength for cutting interviews; when the material allows, I endeavour to intercut the participants in such a way that they seamlessly flow from one speaker to the next.  
@@ -48,15 +49,15 @@ Having edited professionally for 20 years, I am a highly adaptable editor with a
 
 >#### Graphics
 >[This video for Napier University](https://youtu.be/Cw7e0ic7Ey4), part of a series of 25 case studies, has simple but effective on-brand graphics; these were done collaboratively with the client, who selected the phrases to pull out from an initial version of the video, and I then created the animation in After Effects according to the brand guidelines.  
->[This VisitScotland Youtube pre-roll advert](https://youtu.be/yT0CJiXv0-U) for the German market has German text throughout, often on screen briefly and in unpredictabe areas of the screen; it required close collaboration with the client to ensure consisten readability. It's also a good example of cutting to an exact duration (30 seconds).  
+>[This VisitScotland Youtube pre-roll advert](https://youtu.be/yT0CJiXv0-U) for the German market has German text throughout, often on screen briefly and in unpredictabe areas of the screen; it required close collaboration with the client to ensure consistent readability. It's also a good example of cutting to an exact duration (30 seconds).  
 
 >#### Sound / Music
 >I also take great pride in sound and music editing. [This video for the NHS](https://youtu.be/s7G6mfRpoCU?si=8-2eFVx4lMFJgNlG), recorded over Teams during the pandemic to inform the NHS workforce about workplace bereavement, has creative use of sound and music, inluding [reversed music to create an unsettling feeling](https://youtu.be/s7G6mfRpoCU?si=8-2eFVx4lMFJgNlG&t=231) and music [used as a sound effect, to punctuate the nurse's story](https://youtu.be/s7G6mfRpoCU?si=h7mCs0CxmZIC8Cp8&t=470).  
->Also, for [this video for the Scottish Courts and Tribunal Services](https://youtu.be/8ikps64ec3I?si=H2hRTtyFH2XLLq_2&t=139), I altered the Audio Network track that begins at 02:20 with an alternative synthesiser in Ableton Live, rather than replacing the track entirely, when one of my colleagues didn't like the original track.  
+>Also, in [this video for the Scottish Courts and Tribunal Services](https://youtu.be/8ikps64ec3I?si=H2hRTtyFH2XLLq_2&t=139), I altered the Audio Network track that begins at 02:20 with an alternative synthesiser in Ableton Live rather than replacing the track entirely, when one of my colleagues didn't like the sound of the original.  
 
 
 > [!NOTE]  
-> At times I have worked to challenging deadlines; [this annual review video for Scottish Enterprise](https://youtu.be/OnoYiEk2ZnE) was recut in a single _(long!)_ night when the client didn't like the v1 of the original brief. The re-edit repurposed the footage (the black and white shots of SE employees) along with shots from SE's library.
+> At times I have worked to challenging deadlines; [this annual review video for Scottish Enterprise](https://youtu.be/OnoYiEk2ZnE) was recut in a single _(long!)_ night when the client didn't like the v1 of the original brief. The re-edit repurposed the footage (the black and white shots of SE employees) along with shots from SE's library, and some stock shots.
 
 ### Team working  
 I have strong written and speaking communication skills and am always conscious of my audience and their level of technical expertise.  
@@ -65,11 +66,13 @@ Having made videos for a variety of clients from different industries and sector
 
 Additionally, an essential part of the role of an editor is listening to and implementing feedback from clients, team members and other stakeholders, which has taught me the value of listening to all contributions.  
 
-In my previous role at Speakeasy Productions, and also from my time as a software developer at Agilent in Germany, I have gained valuable experience working across multi-disciplinary teams, and in teams with colleagues whose first language wasn't English. In particular, at Agilent each member of my development team took turns to host our team meetings, which required clear communication, patient and respectful interactions with colleagues, and encouraged me to express ideas using jargon-free language. I also on occasion hosted these meetings in German.  
+In my previous role at Speakeasy Productions, and also from my time as a software developer at Agilent in Germany, I have gained valuable experience working across multi-disciplinary teams, and in teams with colleagues whose first language wasn't English. In particular, at Agilent each member of my development team took turns to host our team meetings, which required clear communication, patient and respectful interactions with colleagues, and encouraged me to express ideas using jargon-free language. I also occasionally hosted these meetings in German.  
 
 ## Summary  
 
-I believe I would be a good fit for Baillie Gifford; I am highly motivated, adaptable, and eager to continue growing in my career. I thrive in supportive, collaborative team environments where the work is both varied and challenging, and I aspire to be a supportive, positive colleague.  
+I believe I would be a good fit for Baillie Gifford; I am highly skilled, motivated, adaptable, and eager to continue growing in my career. I thrive in supportive, collaborative team environments where the work is both varied and challenging, and I aspire to be a supportive, positive colleague.  
+
+[Video links page][links_page]
 
 <!-- links -->
 
