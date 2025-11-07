@@ -1,4 +1,4 @@
-[Video links page][links_page]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Showreel][showreel]
+[Video links page][links_page]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Showreel][showreel]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[YouTube playlist][youtube_playlist]
 
 # Peter Smith editor
 ## About me
@@ -73,7 +73,7 @@ I believe I would be a good fit for Baillie Gifford; I am highly skilled, motiva
 
 ---
 
-[Video links page][links_page]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Showreel][showreel]
+[Video links page][links_page]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[CV][cv]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Cover letter][letter]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Showreel][showreel]&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[YouTube playlist][youtube_playlist]
 
 <!-- links -->
 
@@ -82,3 +82,4 @@ I believe I would be a good fit for Baillie Gifford; I am highly skilled, motiva
 [cv]: Peter_Smith_CV.pdf
 [letter]: Peter_Smith_BG_cover_letter.pdf
 [showreel]: https://youtu.be/j3nW8g24qeg
+[youtube_playlist]: https://www.youtube.com/playlist?list=PLSf4yC-kM8p7FxLL5mHpUCNuB2_qiWKbN
