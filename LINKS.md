@@ -65,7 +65,7 @@ I altered the Audio Network music in the section that begins at 02:19 with an al
 ---
 
 ## Playlist of other work  
-> [!TIP]
+> [!IMPORTANT]
 > [Playlist of complete films](https://www.youtube.com/playlist?list=PLSf4yC-kM8p7FxLL5mHpUCNuB2_qiWKbN)  
 > A YouTube playlist of complete videos made during my time as an inhouse editor.  
 > [Showreel](https://youtu.be/j3nW8g24qeg)  
@@ -74,9 +74,8 @@ I altered the Audio Network music in the section that begins at 02:19 with an al
 ---
 
 ## Noteworthy early career work  
-> [!TIP]  
-> [The Recording of Mr Beast](https://youtu.be/InCGES-5KSg?si=RsfI-RrMsqPth3ro&t=0)  
-> I produced, directed and filmed almost all of this fly-on-the wall documentary made to accompany the release of the album Mr Beast.  
+>[The Recording of Mr Beast](https://youtu.be/InCGES-5KSg?si=RsfI-RrMsqPth3ro&t=0)  
+I produced, directed and filmed almost all of this fly-on-the wall documentary made to accompany the release of the album Mr Beast.  
 
 [Back to answers page][response]  
 
